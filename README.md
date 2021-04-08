@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+#Json Data for the songs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[
+{
+"name": "Why We Lose (feat. Coleman Trapp)",
+"artist": "Cartoon",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/why-we-lose.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/why-we-lose.mp3"
+},
+{
+"name": "21",
+"artist": "Arlow & Shiah Maisel",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/21.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/21.mp3"
+},
+{
+"name": "This is life",
+"artist": "The Acturians",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/This-is-life.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/This-Is-Life.mp3"
+},
+{a
+"name": "Dancing In The Rain",
+"artist": "Teen Asty",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Dancing-In-The-Rain.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Dancing-In-The-Rain.mp3"
+},
+{
+"name": "Throne",
+"artist": "Rival",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Throne.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Throne.mp3"
+},
+{
+"name": "Jungle",
+"artist": "Rogers and Dean",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Jungle.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Jungle.mp3"
+},
+{
+"name": "War Zone (ft. M.I.M.E.)",
+"artist": "Unknown Brain ",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/War-Zone.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/War-Zone.mp3"
+},
+{
+"name": "Shadows",
+"artist": "ROY KNOX x WTCHOUT",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Shadows.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Shadows.mp3"
+},
+{
+"name": "Breathe Me In",
+"artist": "ROY KNOX",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Breathe-Me-In.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Breathe-Me-In.mp3"
+},
+{
+"name": "Goodbye",
+"artist": "Linko",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Goodbye.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Goodbye.mp3"
+},
+{
+"name": "Pretty",
+"artist": "LÖVI",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Pretty.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Pretty.mp3"
+},
+{
+"name": "Demons",
+"artist": "NIVIRO",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Demons.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Demons.mp3"
+},
+{
+"name": "Feelings",
+"artist": "Cytrax",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Feelings.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Feelings.mp3"
+},
+{
+"name": "My Fantasy",
+"artist": "Pierse",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/My-Fantasy.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/My-Fantasy.mp3"
+},
+{
+"name": "Never Stop",
+"artist": "Todd Helder",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Never-Stop.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Never-Stop.mp3"
+},
+{
+"name": "Secrets",
+"artist": "Andrew Applepie",
+"img_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Cover/Secrets.jpg",
+"song_url": "https://raw.githubusercontent.com/Thakkar-Khushang/Files-MusicApp/main/Music/Secrets.mp3"
+}
+]
