@@ -6,7 +6,7 @@
 
 # WebDev
 >Repository for the backend resources of WebDev workshop <br>
-<b>A one day workshop on WebDev under Horizon'21<br><br>
+<b>A one day workshop on WebDev under Horizon'21 <br><br>
 >This repository contain the pre-written code files to help the begineers to get a hold on the world of WebDev
 
 
